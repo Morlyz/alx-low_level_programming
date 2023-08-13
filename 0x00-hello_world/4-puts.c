@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * c program
+ * This is a C programming script
  *
- * main = entry point
+ * main = Entry point
  *
- * Return: always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
