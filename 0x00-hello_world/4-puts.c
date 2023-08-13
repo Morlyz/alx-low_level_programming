@@ -1,5 +1,7 @@
 #include <stdio.h>
 /**
+ * c program
+ *
  * main = entry point
  *
  * Return: always 0 (Success)
